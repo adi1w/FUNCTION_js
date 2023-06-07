@@ -1,0 +1,26 @@
+body {
+    background-color:lightgreen;
+    border-color: 4px solid brown;
+}
+
+.top{
+
+    text-align: center;
+    color:crimson;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 4px -2px white;
+}
+
+.top1{
+    text-align: center;
+    color: brown;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 4px -2px hotpink;
+}
+
+hr{
+    border: 1px solid black;
+
+}
